@@ -1,0 +1,52 @@
+.popular-movies-section {
+    width: 100vw;
+    min-height: 90vh;
+    background-color: #3f3e3e;
+    display: flex;
+    flex-direction: column;
+    
+}
+.image{
+    height: 500px;
+    width: 300px;
+    border-radius: 10px;
+
+}
+.heading{
+    color:#fff;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.rating{
+    color:#fff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+
+}
+.contain{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+.container{
+width: 90%;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  min-height: 800px;
+  flex-wrap: wrap;
+  overflow: fixed;
+
+
+}
+.container1{
+    text-align: center;
+    padding-top: 30px;
+    padding: 20px;
+}

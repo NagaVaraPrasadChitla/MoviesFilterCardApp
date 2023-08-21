@@ -1,0 +1,62 @@
+.HeaderContainer{
+    background-color: grey;
+    padding: 10px;
+    width:100%;
+    height: 100%;
+    
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 20px;
+    width: 50%;
+}
+.head{
+    color: white;
+    display: inline;
+    font-size: 22px;
+    font-weight: bold;
+    
+}
+.para{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 100;
+    font-family: "Roboto";
+}
+.btn{
+    width: 60px;
+    height: 30px;
+    color:aliceblue;
+    background-color: grey;
+    font-weight: 300;
+    border-style: none;
+}
+.Image{
+    width:25% ;
+
+}
+.innerSection{
+    height: 50%;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 60px;
+}
+.page{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: space-between;
+}
+.section{
+    display: flex;
+
+
+}
+.image1{
+    width: 45%;
+}
